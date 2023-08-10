@@ -2,65 +2,59 @@
 
 ## QA Manager
 
-<table>
-  <tr>
-    <th>Soft Skills</th>
-    <th>Hard Skills</th>
-    <th>Responsibilities</th>
-  </tr>
-  <tr>
-    <td rowspan="6">Results Driven<br>Communication<br>Detail-Oriented<br>Leadership<br>Reliability<br>Client Management</td>
-    <td rowspan="2">QA Methodologies<br>Data Analysis<br>MS Office and Databases<br>Quality Control Certifications</td>
-    <td>Devise QA Procedures</td>
-  </tr>
-  <tr>
-    <td>Monitor Quality-Affecting Operations</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Supervise Staff<br>Check Production Consistency<br>Meet Customer Requirements<br>Report Malfunctions</td>
-    <td>Analyze Quality Data</td>
-  </tr>
-  <tr>
-    <td>Review Standards/Policies</td>
-  </tr>
-  <tr>
-    <td>Keep QA Records</td>
-    <td>&nbsp;</td>
-  </tr>
-</table>
+**Soft Skills**
+- Results Driven
+- Communication
+- Detail-Oriented
+- Leadership
+- Reliability
+- Client Management
+
+**Hard Skills**
+- QA Methodologies
+- Data Analysis
+- MS Office and Databases
+- Quality Control Certifications
+
+**Responsibilities**
+- Devise QA Procedures
+- Monitor Quality-Affecting Operations
+- Supervise Staff
+- Check Production Consistency
+- Meet Customer Requirements
+- Report Malfunctions
+- Analyze Quality Data
+- Review Standards/Policies
+- Keep QA Records
 
 ## QA Engineer
 
-<table>
-  <tr>
-    <th>Soft Skills</th>
-    <th>Hard Skills</th>
-    <th>Responsibilities</th>
-  </tr>
-  <tr>
-    <td rowspan="6">Critical Thinking<br>Communication<br>Detail-Oriented<br>Organizational Skills<br>Reliability<br>Time Management</td>
-    <td rowspan="8">QA Methodologies<br>Specialization<br>Test Plan Writing<br>White/Black Box Testing<br>Automated Testing<br>SQL & Scripting<br>Agile/Scrum Experiences<br>Performance/Security Testing<br>Relevant Certifications<br>MS Office and Databases<br>Quality Control Certifications</td>
-    <td>Performance Testing</td>
-  </tr>
-  <tr>
-    <td>Test Automation</td>
-  </tr>
-  <tr>
-    <td>Manual Testing</td>
-  </tr>
-  <tr>
-    <td>Usability Testing</td>
-  </tr>
-  <tr>
-    <td>Create Test Plans/Cases</td>
-  </tr>
-  <tr>
-    <td>Coordinate Testing Activities</td>
-  </tr>
-  <tr>
-    <td>Review Requirements</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-  </tr>
-</table>
+**Soft Skills**
+- Critical Thinking
+- Communication
+- Detail-Oriented
+- Organizational Skills
+- Reliability
+- Time Management
+
+**Hard Skills**
+- QA Methodologies
+- Specialization
+- Test Plan Writing
+- White/Black Box Testing
+- Automated Testing
+- SQL & Scripting
+- Agile/Scrum Experiences
+- Performance/Security Testing
+- Relevant Certifications
+- MS Office and Databases
+- Quality Control Certifications
+
+**Responsibilities**
+- Performance Testing
+- Test Automation
+- Manual Testing
+- Usability Testing
+- Create Test Plans/Cases
+- Coordinate Testing Activities
+- Review Requirements
