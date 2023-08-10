@@ -2,11 +2,7 @@
 
 ### Description
 
-Join us in this welcoming GitHub repository dedicated to empowering and engaging novice contributors in the world of open-source projects. We are focused on incorporating Playwright test scripts for both UI and API testing, while exclusively utilizing legitimate free APIs and UIs to automate these scripts. Contribute, learn, and grow with us as we collaborate on open-source projects!
-
-### Table of Contents
-
-1. Contact
+Welcome to the Quality Test Engineering Notes repository! This is a dedicated space for collecting comprehensive and insightful notes on quality assurance and software testing practices. Whether you're a seasoned quality engineer or just starting your journey in the world of testing, this repository aims to be a valuable resource for enhancing your skills and knowledge.
 
 ### Contact
 
