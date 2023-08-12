@@ -1,4 +1,6 @@
-# How to become a better developer
+# Coding Efficiency Tips
+
+## Tip 01
 
 - Understand the problem well
 - Find possible solutions
