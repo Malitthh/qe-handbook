@@ -1,6 +1,6 @@
 # Coding Efficiency Tips
 
-## Tip 01
+## 01
 
 - Understand the problem well
 - Find possible solutions
