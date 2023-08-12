@@ -39,11 +39,11 @@ A hot fix is a fix done on an immediate basis for impacted areas.
 
 ### Bug Status Flow:
 - New
-- Assigned <------------------------------------------|
-- Open (Duplicate/Rejected/Defined/Not a Bug)         |
-- Fixed                                               |
-- Pending Retest                                      |
-- Retest                                              |
-- (Retest Failed) --> Reopened ---------------------->|
+- Assigned
+- Open (Duplicate/Rejected/Defined/Not a Bug)         
+- Fixed                                               
+- Pending Retest                                      
+- Retest                                              
+- (Retest Failed) --> Reopened 
 - Verified
 - Closed
