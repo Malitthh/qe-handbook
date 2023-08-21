@@ -1,0 +1,25 @@
+# Documents in QA
+
+1. Requirement Traceability Matrix (RTM):
+   * This is often created early in the process to map requirements to test cases, ensuring comprehensive test coverage.
+2. Test Plan:
+   * A test plan is developed to outline the overall testing strategy, scope, objectives, resources, and schedule for the testing process.
+3. Test Suite:
+   * Test suites are organized based on the test plan and include a collection of test cases that align with specific features or functionalities.
+4. Test Cases:
+   * Detailed test cases are created within each test suite, describing step-by-step instructions for testing different aspects of the software.
+5. Test Scenarios:
+   * Test scenarios can be derived from the test cases and provide high-level descriptions of interactions and workflows to be tested.
+6. Test Bed:
+   * The test bed is set up to create an environment suitable for executing the tests outlined in the test cases.
+   * Execution of Tests - Testers execute the test cases in the designated test bed to identify defects and verify the software's functionality.
+7. Bug Report:
+   * When defects are identified during testing, bug reports (or defect reports) are created to document the issues found, including their details and severity.
+8. Test Metrics:
+   * Throughout the testing process, various metrics can be collected to assess the quality and progress of testing activities.
+9. Test Summary Reports:
+    * Once testing is completed, a test summary report is generated to provide an overview of the testing activities, including test execution results, defect details, and assessment of software quality.
+10. Release Notes:
+    * After testing and bug fixing are complete, release notes are prepared to communicate the changes, enhancements, and bug fixes made in the software release.
+
+Please note that the exact order may vary based on the project's needs and the specific testing methodology being used. Additionally, some of these documents might be created or updated concurrently as the testing process unfolds.
