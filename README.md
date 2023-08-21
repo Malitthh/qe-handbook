@@ -4,6 +4,15 @@
 
 Welcome to the Quality/Test Engineering Notes repository! This is a dedicated space for collecting comprehensive and insightful notes on quality assurance and software testing practices. Whether you're a seasoned quality engineer or just starting your journey in the world of testing, this repository aims to be a valuable resource for enhancing your skills and knowledge.
 
+### Table of Content
+
+1. Bug & Defects
+2. Coding Efficiency Tips
+3. Git Training
+4. QA Manager vs QA Engineer
+5. Test Initiation
+6. QA Documents
+
 ### Contact
 
 Please log your concern [CONTACT.md](https://github.com/Malitthh/qe-handbook/blob/main/CONTACT.md)
