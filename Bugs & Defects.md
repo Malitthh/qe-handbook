@@ -28,6 +28,16 @@ Bug report should contain:
 ### Hot Fix
 A hot fix is a fix done on an immediate basis for impacted areas.
 
+### Defect Managment Process
+Defect Managment Process is a systemetic process to identify & fix bugs.
+Defect Managment Cycle contains,
+1. Discovery of Defects/Discovery
+2. Defects Categorization/Categorization
+3. Defects fixing by Developers/ Resolution
+4. Verification by Testers/ Verification
+5. Defect Colsure/ Closure
+6. Defect Report at the end of the Project/ Reporting
+
 ### Steps to Follow When Discovering a Bug at the Time of Release
 1. Prioritize the bug
 2. Document & replicate
