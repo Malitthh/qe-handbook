@@ -6,7 +6,7 @@ Welcome to the Quality/Test Engineering Notes repository! This is a dedicated sp
 
 ### Table of Content
 
-1. Bug & Defects (https://github.com/Malitthh/qe-handbook/blob/main/Bugs & Defects.md)
+1. Bug & Defects
 2. Coding Efficiency Tips
 3. Git Training
 4. QA Manager vs QA Engineer
