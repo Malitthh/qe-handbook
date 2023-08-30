@@ -12,6 +12,7 @@ Welcome to the Quality/Test Engineering Notes repository! This is a dedicated sp
 4. QA Manager vs QA Engineer
 5. Test Initiation
 6. QA Documents
+7. Inspiring Leadership and Personal Development
 
 ### Contact
 
