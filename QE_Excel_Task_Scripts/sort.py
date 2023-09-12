@@ -1,6 +1,7 @@
 import csv
 import json
 //These lines are importing the necessary Python modules: csv for working with CSV files and json for handling JSON data.
+// run the script using CMD, python sort.py
 
 def categorize_Population_Count(word_count):
     if word_count <= 500:
