@@ -14,6 +14,7 @@ Welcome to the Quality/Test Engineering Notes repository! This is a dedicated sp
 6. QA Documents
 7. Inspiring Leadership and Personal Development
 8. Strategies for Wealth Accumulation and Financial Growth
+9. Work Log
 
 ### Contact
 
