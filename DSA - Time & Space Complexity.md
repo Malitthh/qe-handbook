@@ -34,73 +34,74 @@ Here are some broad categories of algorithms, each containing numerous specific 
 
 1. Sorting Algorithms:
 
-Bubble Sort
-Selection Sort
-Insertion Sort
-Merge Sort
-Quick Sort
-Heap Sort
-Radix Sort, etc.
+* Bubble Sort
+* Selection Sort
+* Insertion Sort
+* Merge Sort
+* Quick Sort
+* Heap Sort
+* Radix Sort, etc.
 
 2. Searching Algorithms:
 
-Linear Search
-Binary Search
-Hashing Algorithms (for hash tables), etc.
+* Linear Search
+* Binary Search
+* Hashing Algorithms (for hash tables), etc.
 
 3. Graph Algorithms:
 
-Depth-First Search (DFS)
-Breadth-First Search (BFS)
-Dijkstra's Algorithm
-Bellman-Ford Algorithm
-Kruskal's Algorithm
-Prim's Algorithm, etc.
+* Depth-First Search (DFS)
+* Breadth-First Search (BFS)
+* Dijkstra's Algorithm
+* Bellman-Ford Algorithm
+* Kruskal's Algorithm
+* Prim's Algorithm, etc.
 
 4. Dynamic Programming Algorithms:
 
-Fibonacci sequence using dynamic programming
-Longest Common Subsequence
-Knapsack Problem
-Shortest Path in a Graph
-Matrix Chain Multiplication, etc.
+* Fibonacci sequence using dynamic programming
+* Longest Common Subsequence
+* Knapsack Problem
+* Shortest Path in a Graph
+* Matrix Chain Multiplication, etc.
 
 5. Divide and Conquer Algorithms:
 
-Merge Sort
-Quick Sort
-Strassen's Matrix Multiplication, etc.
+* Merge Sort
+* Quick Sort
+* Strassen's Matrix Multiplication, etc.
 
 6. Greedy Algorithms:
 
-Kruskal's Algorithm
-Prim's Algorithm
-Dijkstra's Algorithm
-Huffman Coding, etc.
+* Kruskal's Algorithm
+* Prim's Algorithm
+* Dijkstra's Algorithm
+* Huffman Coding, etc.
 
 7. String Algorithms:
 
-Pattern Matching Algorithms (e.g., KMP, Rabin-Karp)
-Longest Common Substring
-Edit Distance, etc.
+* Pattern Matching Algorithms (e.g., KMP, Rabin-Karp)
+* Longest Common Substring
+* Edit Distance, etc.
 
 8. Numerical Algorithms:
 
-Euclidean Algorithm (for finding the greatest common divisor)
-Fast Fourier Transform (FFT)
-Primality Testing Algorithms, etc.
+* Euclidean Algorithm (for finding the greatest common divisor)
+* Fast Fourier Transform (FFT)
+* Primality Testing Algorithms, etc.
 
 9. Machine Learning Algorithms:
 
-Linear Regression
-Decision Trees
-Support Vector Machines
-Neural Networks
-K-Means Clustering, etc.
+* Linear Regression
+* Decision Trees
+* Support Vector Machines
+* Neural Networks
+* K-Means Clustering, etc.
 
 10. Cryptography Algorithms:
 
-RSA Algorithm
-AES (Advanced Encryption Standard)
-Diffie-Hellman Key Exchange, etc.
+* RSA Algorithm
+* AES (Advanced Encryption Standard)
+* Diffie-Hellman Key Exchange, etc.
+
 These are just a few examples, and there are many more algorithms in each category. 
