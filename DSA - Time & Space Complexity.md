@@ -14,3 +14,7 @@ Here are some common time complexity classes:
 4. O(n log n): Linearithmic time complexity. Often seen in efficient sorting algorithms like merge sort and heap sort.
 5. O(n^2): Quadratic time complexity. The running time is proportional to the square of the input size. Common in nested loops.
 6. O(2^n): Exponential time complexity. The running time doubles with each addition to the input size. Common in brute-force algorithms.
+
+## Space complexity
+
+Is the amount of memory taken by an algorithm to run as a function of input size.
