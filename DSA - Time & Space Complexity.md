@@ -32,7 +32,7 @@ The number of algorithms is vast and continually expanding as researchers and de
 
 Here are some broad categories of algorithms, each containing numerous specific algorithms:
 
-Sorting Algorithms:
+1. Sorting Algorithms:
 
 Bubble Sort
 Selection Sort
@@ -41,12 +41,14 @@ Merge Sort
 Quick Sort
 Heap Sort
 Radix Sort, etc.
-Searching Algorithms:
+
+2. Searching Algorithms:
 
 Linear Search
 Binary Search
 Hashing Algorithms (for hash tables), etc.
-Graph Algorithms:
+
+3. Graph Algorithms:
 
 Depth-First Search (DFS)
 Breadth-First Search (BFS)
@@ -54,42 +56,49 @@ Dijkstra's Algorithm
 Bellman-Ford Algorithm
 Kruskal's Algorithm
 Prim's Algorithm, etc.
-Dynamic Programming Algorithms:
+
+4. Dynamic Programming Algorithms:
 
 Fibonacci sequence using dynamic programming
 Longest Common Subsequence
 Knapsack Problem
 Shortest Path in a Graph
 Matrix Chain Multiplication, etc.
-Divide and Conquer Algorithms:
+
+5. Divide and Conquer Algorithms:
 
 Merge Sort
 Quick Sort
 Strassen's Matrix Multiplication, etc.
-Greedy Algorithms:
+
+6. Greedy Algorithms:
 
 Kruskal's Algorithm
 Prim's Algorithm
 Dijkstra's Algorithm
 Huffman Coding, etc.
-String Algorithms:
+
+7. String Algorithms:
 
 Pattern Matching Algorithms (e.g., KMP, Rabin-Karp)
 Longest Common Substring
 Edit Distance, etc.
-Numerical Algorithms:
+
+8. Numerical Algorithms:
 
 Euclidean Algorithm (for finding the greatest common divisor)
 Fast Fourier Transform (FFT)
 Primality Testing Algorithms, etc.
-Machine Learning Algorithms:
+
+9. Machine Learning Algorithms:
 
 Linear Regression
 Decision Trees
 Support Vector Machines
 Neural Networks
 K-Means Clustering, etc.
-Cryptography Algorithms:
+
+10. Cryptography Algorithms:
 
 RSA Algorithm
 AES (Advanced Encryption Standard)
