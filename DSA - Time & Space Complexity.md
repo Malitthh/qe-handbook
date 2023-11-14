@@ -18,3 +18,12 @@ Here are some common time complexity classes:
 ## Space complexity
 
 Is the amount of memory taken by an algorithm to run as a function of input size.
+
+## Algorithms
+
+An algorithm is a set of well-defined instructions to solve a particular problem.
+
+* Characteristics of Algorithms
+1. Well defined inputs and outputs
+2. Each step should be clear
+3. Language independent
