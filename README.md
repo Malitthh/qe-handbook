@@ -22,7 +22,7 @@ Welcome to the Quality/Test Engineering Notes repository! This is a dedicated sp
 Please log your concern [CONTACT.md](https://github.com/Malitthh/qe-handbook/blob/main/CONTACT.md)
 
 #### PS
-1. Font - Consolas (Bold, 11)
+1. Font - Consolas (Bold, 11, 15.6 VS)
 
 ### Contributors
 <!-- <a href="https://github.com/Malitthh/qe-handbook/graphs/contributors">
