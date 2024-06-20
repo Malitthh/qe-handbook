@@ -21,6 +21,9 @@ Welcome to the Quality/Test Engineering Notes repository! This is a dedicated sp
 
 Please log your concern [CONTACT.md](https://github.com/Malitthh/qe-handbook/blob/main/CONTACT.md)
 
+#PS
+1. Font - Consolas (Bold, 11)
+
 ### Contributors
 <!-- <a href="https://github.com/Malitthh/qe-handbook/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=Malitthh/qe-handbook&max=500" alt="Lista de contribuidores" width="100%"/>
